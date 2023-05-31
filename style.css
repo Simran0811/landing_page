@@ -1,0 +1,308 @@
+body {
+    font-family: 'Baloo Bhai', cursive;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url(markus-spiske-cSladFbk1bw-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 858px;
+    height: 3000px;
+}
+
+.left{
+    border: 0px solid red;
+    display: inline-block;
+    position: absolute;
+    left: 60px;
+    top: 54px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.left img{
+    width: 88px;
+    
+    
+    
+}
+.logocolor{
+    color: black;
+    font-weight: bold;
+}
+.mid{
+    border: 0px solid yellow;
+    width: 60%;
+    text-align: center;
+    display: block;
+    margin: 29px auto;
+
+}
+.right{
+    display: inline-block;
+    border: 0px solid green;
+    position: absolute;
+    right: 34px;
+    top: 71px;
+
+}
+.navbar{
+    display: inline-block;
+    font-size: 24px;
+    
+}
+.navbar li {
+    display: inline-block;
+    padding: 34px 23px;
+    text-decoration: none;
+    
+
+}
+.navbar li a{
+    text-decoration: none;
+    color: black;
+    padding: 34px 23px;
+
+}
+.navbar li a:hover,.navbar li a:active{
+    text-decoration: underline;
+    color: grey;
+}
+.btn{
+    margin: 0px 9px;
+    color:white;
+    background-color:black;
+    padding: 4px 14px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Baloo Bhai', cursive;
+}
+.btn:hover{
+    background-color: rgb(53, 47, 47);
+
+
+}
+.detail h1{
+    position: absolute;
+    top: 899px;
+    left: 667px;
+        color: #e01313
+}
+.basket img{
+    height: 181px;
+    width: 182px;
+    position: absolute;
+    left: 264px;
+    top: 1049px;
+
+}
+.basketp{
+    color: black;
+    position: absolute;
+    left: 166px;
+    top: 1278px;
+    
+}
+.cricket img{
+    height: 181px;
+    width: 182px;
+    position: absolute;
+    left: 967px;
+    top: 1054px;
+
+}
+.cricketp{
+color: black;
+    position: absolute;
+    left: 800px;
+    top: 1278px;
+    
+}
+.football img{
+     height: 181px;
+    width: 248px;
+    position: absolute;
+    left: 264px;
+    top: 1464px;
+
+}
+.footballp{
+    color: black;
+    position: absolute;
+    left: 166px;
+    top: 1605px;
+    
+}
+.badminton img{
+    height: 149px;
+    width: 190px;
+    position: absolute;
+    left: 919px;
+    top: 1448px;
+}
+.badmintonp{
+    color: black;
+    position: absolute;
+    left: 800px;
+    top: 1605px;
+}
+.mentor img{
+    height: 490px;
+    width: 384px;
+    top: 1815px;
+    left: 210px;
+    position: absolute;
+    
+}
+.mentor h1{
+    font-weight: bold;
+    
+    position: absolute;
+    top: 1847px;
+    left: 895px;
+     color: #e01313
+    
+}
+.mentor p{
+    position: absolute;
+    top: 1947px;
+    color: black;
+    left: 750px;
+}
+.hem{
+    position: absolute;
+    top: 2134px;
+     color: #e01313;
+    left: 895px;
+}
+.h32{
+    position: absolute;
+    top: 2163px;
+     color: #e01313;
+    left: 895px;
+}
+.h33{
+    position: absolute;
+    top: 2189px;
+    color: #e01313;
+    left: 895px;
+}
+.h34{
+    position: absolute;
+    top: 2218px;
+    color: #e01313;
+    left: 895px;
+}
+.performance img{
+    height: 490px;
+    width: 384px;
+    top: 2340px;
+    left: 815px;
+    position: absolute;
+
+    
+}
+.performance h1{
+    font-weight: bold;
+     color: #e01313;
+    position: absolute;
+    top: 2413px;
+    left: 246px;
+    
+}
+.performance p{
+    position: absolute;
+    top: 2513px;
+     color: black;
+    left: 47px;
+}
+.h31{
+    position: absolute;
+    top:2613px;
+     color: #e01313;
+    left: 326px;
+}
+.h35{
+    position: absolute;
+    top: 2694px;
+    color: #e01313;
+    left: 326px;
+}
+.h36{
+    position: absolute;
+    top: 2656px;
+    color: #e01313;
+    left: 326px;
+}
+.h37{
+    position: absolute;
+    top: 2736px;
+    color: #e01313;
+    left: 326px;
+}
+
+.face img{
+        position: absolute;
+    height: 77px;
+    width: 78px;
+    top: 2920px;
+    left: 540px;
+}
+.insta img{
+       position: absolute;
+    height: 67px;
+    width: 65px;
+    top: 2928px;
+    left: 637px;
+}
+.pin img{
+    position: absolute;
+    height: 77px;
+    width: 78px;
+    top: 2918px;
+    left: 731px;
+}
+.twitter img{
+        position: absolute;
+    height: 77px;
+    width: 78px;
+    top: 2925px;
+    left: 830px
+}
+.container
+{
+    
+    opacity: 7;
+    border: 7px solid black;
+    margin: 30px 80px;
+    padding: 45px;
+    width: 25%;
+    border-radius: 28px;
+    border-style: ridge;
+    left: 40px;
+
+}
+.form-group input{
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    display: block;
+    width :25%px;
+    padding: 1px;
+    border: 3px solid black;
+    margin: 11px auto;
+    font-size: 25px;
+    border-radius: 8px;
+    
+}
+.container h1{
+    text-align: center;
+    color: black;
+    font-family:'Bungee Spice';
+
+
+}
+.container button{
+    display: block;
+    width: 74%;
+    margin: 20px auto;
+}
